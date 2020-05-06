@@ -1,0 +1,10 @@
+# Write your answers to task3 below.
+# Do NOT remove or modify the question numbers.
+# Each answer should be kept on a single line.
+
+1.vim
+2."vim animals.txt"
+3.jjjjjj$aanimal
+4.0laanimal
+5.:w
+6.:q
